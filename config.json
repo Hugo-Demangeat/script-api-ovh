@@ -1,0 +1,13 @@
+{
+  "NIC": "hi57316-ovh",
+  "APPLICATION_KEY": "967c131cc25a0bc0",
+  "APPLICATION_SECRET": "b48d5bfdb0578555386779336c4c7288",
+  "CONSUMER_KEY": "cd1f5ef7fb252d2e04a81594cbdcba15",
+  "ENDPOINT": "ovh-eu",
+  "OVH_SUBSIDIARY": "FR",
+  "OWNER_CONTACT": "/me/contact/33091648",
+  "PAYMENT_METHOD": "preferred",
+  "AUTO_BUY": false,
+  "AUTO_DNS": false,
+  "CUSTOM_DNS": "1.1.1.1 1.0.0.1"            
+}
